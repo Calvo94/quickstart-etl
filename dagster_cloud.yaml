@@ -1,4 +1,4 @@
 locations:
-  - location_name: quickstart_etl
+  - location_name: dagster_poc
     code_source:
-      package_name: quickstart_etl
+      package_name: dagster_poc
